@@ -15,7 +15,7 @@ pip install --no-cache-dir pwntools ropper
 
 gem install one_gadget
 
-sudo cd ~/ && git clone https://github.com/longld/peda.git && echo "source ~/peda/peda.py" >> ~/.gdbinit
+cd ~/ && git clone https://github.com/longld/peda.git && echo "source ~/peda/peda.py" >> ~/.gdbinit
 
-sudo cd ~/ && git clone https://github.com/scwuaptx/Pwngdb.git && cp ~/Pwngdb/.gdbinit ~/
+cd ~/ && git clone https://github.com/scwuaptx/Pwngdb.git && cp ~/Pwngdb/.gdbinit ~/
 ```
