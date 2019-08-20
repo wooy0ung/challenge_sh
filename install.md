@@ -11,7 +11,7 @@ sudo dpkg --add-architecture i386 && apt-get update
 
 apt-get install -y git nasm  python build-essential python-dev python-pip python-setuptools libc6-dbg libc6-dbg:i386 gcc-multilib gdb-multiarch gcc wget curl glibc-source cmake python-capstone socat netcat ruby
 
-pip install --no-cache-dir pwntools ropper ancypatch swpwn
+pip install --no-cache-dir pwntools ropper
 
 gem install one_gadget
 
