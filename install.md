@@ -39,3 +39,9 @@ nc pwn2.jarvisoj.com 9882
 
 level3_x64
 nc pwn2.jarvisoj.com 9883
+
+level4
+nc pwn.jarvisoj.com 9876
+
+level5
+nc pwn.jarvisoj.com 9877
