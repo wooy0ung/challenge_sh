@@ -56,6 +56,7 @@ IDA Pro(含python2.7)插件
 yara-python地址：https://github.com/VirusTotal/yara-python
 
 2、 下载findcrypt.py复制到插件目录
+https://github.com/polymorf/findcrypt-yara
 
 IDA 7.0\plugins\findcrypt3.rules
 
