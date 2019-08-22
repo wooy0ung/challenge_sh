@@ -45,3 +45,39 @@ nc pwn.jarvisoj.com 9876
 
 level5
 nc pwn.jarvisoj.com 9877
+
+
+逆向环境
+
+IDA Pro(含python2.7)插件
+
+1、 安装yara-python，最简单的方式是使用：pip install yara-python
+
+yara-python地址：https://github.com/VirusTotal/yara-python
+
+2、 下载findcrypt.py复制到插件目录
+
+IDA 7.0\plugins\findcrypt3.rules
+
+IDA 7.0\plugins\findcrypt3.py
+
+
+Ollydbg
+
+吾爱破解OD
+
+
+安卓
+
+JEB
+apktoolbox
+网易mumu模拟器
+
+
+mips arm or 其他架构
+
+ghidra(需要java 11环境)
+
+
+angr安装
+https://bbs.pediy.com/thread-248914.htm
